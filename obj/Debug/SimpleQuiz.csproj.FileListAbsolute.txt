@@ -1,0 +1,11 @@
+Z:\暫定プロジェクト\SimpleQuiz\bin\Debug\SimpleQuiz.exe.config
+Z:\暫定プロジェクト\SimpleQuiz\bin\Debug\SimpleQuiz.exe
+Z:\暫定プロジェクト\SimpleQuiz\bin\Debug\SimpleQuiz.pdb
+Z:\暫定プロジェクト\SimpleQuiz\obj\Debug\SimpleQuiz.csproj.AssemblyReference.cache
+Z:\暫定プロジェクト\SimpleQuiz\obj\Debug\SimpleQuiz.csproj.SuggestedBindingRedirects.cache
+Z:\暫定プロジェクト\SimpleQuiz\obj\Debug\SimpleQuiz.Form1.resources
+Z:\暫定プロジェクト\SimpleQuiz\obj\Debug\SimpleQuiz.Properties.Resources.resources
+Z:\暫定プロジェクト\SimpleQuiz\obj\Debug\SimpleQuiz.csproj.GenerateResource.cache
+Z:\暫定プロジェクト\SimpleQuiz\obj\Debug\SimpleQuiz.csproj.CoreCompileInputs.cache
+Z:\暫定プロジェクト\SimpleQuiz\obj\Debug\SimpleQuiz.exe
+Z:\暫定プロジェクト\SimpleQuiz\obj\Debug\SimpleQuiz.pdb
